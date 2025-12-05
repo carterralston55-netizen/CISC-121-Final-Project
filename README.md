@@ -1,5 +1,5 @@
 # CISC-121-Final-Project
-About: App about implementing Merge sort into an application for visual demonstration
+About: App for implementing Merge sort into an application for visual demonstration and for users
 ---
 Why I chose Merge Sort: This is one of my personal favourite sorts to impliment in code. This sorting algoithm would be great to visualize for users new to coding, wanting to know how this sort works, or just to sort some numbers.
 
