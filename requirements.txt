@@ -1,0 +1,3 @@
+List of requirements 
+1. Gradio (for user interface)
+2. Python (for the actual main of ther code i.e. implimentation of gradio and the bulk of the code)
